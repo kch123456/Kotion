@@ -1,50 +1,21 @@
-# What inside? <br/> <sub> https://28-jotion-clone.vercel.app/ </sub>
+Kotion is a notion clone that features:
 
-![work in progress](https://i.imgur.com/cW9GVNg.png)
+- Real-time database 🔗
+- Notion-style editor 📝
+- Light and Dark mode 🌓
+- Infinite children documents 🌲
+- Trash can & soft delete 🗑️
+- Authentication 🔐
+- File upload
+- File deletion
+- File replacement
+- Icons for each document (changes in real-time) 🌠
+- Expandable sidebar ➡️🔀⬅️
+- Full mobile responsiveness 📱
+- Publish your note to the web 🌐
+- Cover image of each document 🖼️
+- Recover deleted files 🔄📄
 
-<br/>
-<br/>
-<br/>
 
-# Clone repository
-
-## Step 1.1 - clone repository (variant 1)
-
-![alt text](https://i.imgur.com/9KSgjaN.png)
-
-## or Step 1.1 - clone repository (variant 2)
-
-```
-git clone https://github.com/nicitaacom/28_notion-clone
-```
-
-## Step 1.2 - install deps
-
-```
-pnpm i
-```
-
-## Step 1.3 - run project
-
-```
-pnpm dev
-```
-
-In new terminal
-
-```
-pnpx convex dev
-```
-
-<br/>
-<br/>
-<br/>
-
-## Step 2 - setup .env
-
-### 2.1 - convex - https://youtu.be/0OaDyjB9Ib8?t=4679
-
-### 2.2 - clerk - https://youtu.be/0OaDyjB9Ib8?t=4916
-
-### 2.3 - edge store - https://youtu.be/0OaDyjB9Ib8?t=22786
-
+Acknowledgment
+Code With Antonio - https://www.youtube.com/watch?v=0OaDyjB9Ib8&t=6936s
