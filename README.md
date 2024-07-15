@@ -1,11 +1,11 @@
 Kotion is a notion clone that features:
 
-- Real-time database 🔗
-- Notion-style editor 📝
+- Real-time database  🔗 
+- Notion-style editor 📝 
 - Light and Dark mode 🌓
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
-- Authentication 🔐
+- Authentication 🔐 
 - File upload
 - File deletion
 - File replacement
@@ -13,6 +13,8 @@ Kotion is a notion clone that features:
 - Expandable sidebar ➡️🔀⬅️
 - Full mobile responsiveness 📱
 - Publish your note to the web 🌐
+- Fully collapsable sidebar ↕️
+- Landing page 🛬
 - Cover image of each document 🖼️
 - Recover deleted files 🔄📄
 
