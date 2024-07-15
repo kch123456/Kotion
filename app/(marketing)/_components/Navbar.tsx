@@ -33,7 +33,7 @@ return (
             </SignInButton>
               <SignInButton mode="modal">
               <Button  size='sm'>
-                Get Joshion free
+                Get Kotion free
               </Button>
             </SignInButton>
           </>
@@ -42,7 +42,7 @@ return (
           <>
             <Button variant='ghost' size='sm' asChild>
               <Link href='/documents'>
-                Enter Jotion
+                Enter Kotion
               </Link>
             </Button>
             <UserButton afterSignOutUrl="/"/>
